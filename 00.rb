@@ -6,6 +6,6 @@
 s1 = "stressed"
 
 # 【次の行を変更して、期待通り動くようにする】
-s2 = 
+s2 = s1.reverse
 
 puts s2  # => "desserts"
